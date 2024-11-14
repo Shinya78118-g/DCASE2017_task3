@@ -164,4 +164,4 @@ cython_debug/
 #.idea/
 # macOSの隠しファイル
 .DS_Store
-
+DCASE2017_task3_cnnbigru.git/
